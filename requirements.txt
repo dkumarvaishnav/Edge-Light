@@ -1,0 +1,10 @@
+# Edge Light - Python Dependencies
+
+# Qt framework for GUI
+PyQt5>=5.15.0
+
+# Global hotkey support (more reliable on Windows than pynput)
+keyboard>=0.13.0
+
+# For building standalone executable
+pyinstaller>=6.0.0
